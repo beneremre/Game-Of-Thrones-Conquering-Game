@@ -2,7 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <string>
-#include "beneremre_bener_emre_hw3_LinkedList.h"
+#include "header.h"
 
 using namespace std;
 
